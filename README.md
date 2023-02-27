@@ -1,2 +1,4 @@
-# iHUZO-PROGRAM
-In this project, One file called "challenge" was done as the challenge that I was supposed to do on python to test at which lever I was in that language. The rest files was done when I was doing self-studies on it and I was referring to what my YouTube tutor was doing.   
+This project showcases my programming skills in the Python language. The main file in this project is "challenge.py," I created it as a task to test my proficiency in Python.
+I has made it clear that the rest of the files were developed during my self-study of Python, and they were referring to a book store management system on "https://code-projects.org/book-store-in-python-with-source-code/". While the files reflect my learning progress, they are not a benchmark of my current skill level.
+The "challenge.py" file represents my current level of proficiency, and it reflects the task that I asked to complete. However, I have also noted that my current stage does not allow me to undertake similar tasks independently.
+Overall, iHUZO-PROGRAM is a testament to my dedication to mastering Python programming. It serves as an inspiration and starting point for anyone looking to improve their own programming skills. Thank you for checking out this project!
